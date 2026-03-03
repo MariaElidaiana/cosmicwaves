@@ -16,8 +16,8 @@ Meet a special gravitational wave. Born from the collision of two neutron stars 
 </div>
 
 **Download links:**
-- [Deutsch](https://MariaElidaiana.github.io/cosmicwaves/Cosmic_Waves_Zine-GERMAN.pdf)
-- [English](https://MariaElidaiana.github.io/cosmicwaves/Cosmic_Waves_Zine-ENGLISH.pdf)
+- [Deutsch](https://MariaElidaiana.github.io/cosmic-waves/Cosmic_Waves_Zine-GERMAN.pdf)
+- [English](https://MariaElidaiana.github.io/cosmic-waves/Cosmic_Waves_Zine-ENGLISH.pdf)
 
 
 Text: [Dr. Maria E. S. Pereira](https://mariaelidaiana.github.io/) (maria.sp@mail.com)\
